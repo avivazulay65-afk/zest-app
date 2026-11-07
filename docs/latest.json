@@ -1,0 +1,7 @@
+{
+ "version": "1.7.1",
+ "apk": "https://github.com/avivazulay65-afk/zest-app/releases/download/v1.7.1/Zest-1.7.1.apk",
+ "size": 27480606,
+ "sha256": "6eaac7494c92351fcfbbd2c2bcf392861e2c41097d7f04b66a48d830758ba41d",
+ "notes": "גרסה 1.7.1\n\n- בדיקת עדכון אוטומטית בכל כניסה לאפליקציה, ברקע ובלי התראה. אם יש גרסה חדשה, תופיע שאלה: עדכן עכשיו או אחר כך."
+}
