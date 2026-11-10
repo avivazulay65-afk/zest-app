@@ -56,3 +56,6 @@
 ---
 האפליקציה פרטית ולא קשורה ל-Google או ל-Apple. כל הזכויות שמורות.
 
+## Terms, privacy and licenses
+
+[Terms of use, privacy policy, health disclaimer and licenses (Hebrew)](https://avivazulay65-afk.github.io/zest-app/legal.html)
