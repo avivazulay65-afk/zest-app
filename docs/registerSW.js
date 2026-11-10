@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Program%20Files/Git/zest-app/sw.js', { scope: '/Program%20Files/Git/zest-app/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/zest-app/sw.js', { scope: '/zest-app/' })})}

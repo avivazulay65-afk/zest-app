@@ -54,7 +54,7 @@
 כל גרסה מופיעה ב-[Releases](../../releases) עם קובץ ה-APK ורשימת שינויים.
 
 ---
-האפליקציה פרטית ולא קשורה ל-Google או ל-Apple. כל הזכויות שמורות.
+Zest אינה קשורה ל-Google, Apple, Samsung, YouTube או Open Food Facts, ואינה מאושרת על ידם. שמות המוצרים הם סימנים מסחריים של בעליהם. נתוני מוצרים: [Open Food Facts](https://world.openfoodfacts.org) (רישיון ODbL). תמונות המנות בספר המתכונים נוצרו באמצעות בינה מלאכותית ומוצגות להמחשה בלבד. השימוש לבני 18 ומעלה. כל הזכויות שמורות.
 
 ## Terms, privacy and licenses
 
