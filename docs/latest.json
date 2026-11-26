@@ -1,12 +1,12 @@
 {
-  "version": "1.12.3",
-  "apk": "https://github.com/avivazulay65-afk/zest-app/releases/download/v1.12.3/Zest-1.12.3.apk",
-  "size": 29656924,
-  "sha256": "ae17174998342b1997e54d29d1da2ca99e9518812fc88ce169eecf373b3fe2ea",
-  "notes": "גרסה 1.12.3\n\n- ניתוח ארוחות מהיר יותר במודלי Gemini 3: שימוש ב\"רמת חשיבה\" מינימלית (עם חזרה אוטומטית לרמה נמוכה או להגדרה הרגילה אם המודל דוחה).\n- מתחת לתוצאת הניתוח מוצגת שורת אבחון (מודל, רמת חשיבה, זמן, מספר ניסיונות).\n- גרסת הרשת: אותו שיפור.",
-  "watchApk": "https://github.com/avivazulay65-afk/zest-app/releases/download/v1.10.0/Zest-watch-1.1.apk",
-  "watchSize": 30222451,
-  "watchSha256": "68dd05bd70d33976cc377e40dc90a2167ec8676f81ab39c5bdd29f00ad32980d",
-  "watchCode": 2,
-  "watchVersion": "1.1"
+    "version":  "1.12.6",
+    "apk":  "https://github.com/avivazulay65-afk/zest-app/releases/download/v1.12.6/Zest-1.12.6.apk",
+    "size":  29689692,
+    "sha256":  "838355906569f59a835d584e094d446b357bf4c3b69a4710414b591dbddbb917",
+    "notes":  "גרסה 1.12.6\n\n- ניתוח ארוחה מהיר ויציב יותר: אם שרת Gemini אחד איטי או עמוס, מודל נוסף מתחיל במקביל והתשובה הראשונה מנצחת.\n- מאגר מאכלים משותף ואנונימי: מאכלים בסיסיים (למשל חזה עוף) נענים מיד, ותיאורים שכבר הזנת נשמרים במכשיר.\n- נוסח הפרטיות עודכן (המאגר המשותף); יידרש אישור מחדש.\n- גרסת הרשת: אותם שיפורים.",
+    "watchApk":  "https://github.com/avivazulay65-afk/zest-app/releases/download/v1.10.0/Zest-watch-1.1.apk",
+    "watchSize":  30222451,
+    "watchSha256":  "68dd05bd70d33976cc377e40dc90a2167ec8676f81ab39c5bdd29f00ad32980d",
+    "watchCode":  2,
+    "watchVersion":  "1.1"
 }
